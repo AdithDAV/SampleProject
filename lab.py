@@ -1,1 +1,2 @@
 print("CSE")
+print("BJMC")
