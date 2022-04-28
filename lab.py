@@ -1,2 +1,3 @@
 print("CSE")
-print("BJMC")
+print("Total Credits: 24")
+print("Devops Credits: 3")
